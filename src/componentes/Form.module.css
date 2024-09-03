@@ -1,0 +1,17 @@
+.header, .section {
+    display: flex;
+    justify-content: center;
+    background-color: darkgray;
+    padding: 32px;
+}
+
+.form {
+    border: 2px solid black;
+    padding: 16px;
+}
+
+.resultado{
+    margin-top: 8px;
+}
+
+
